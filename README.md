@@ -4,6 +4,9 @@
 I’m a <strong>(Full-stack Creative &amp;&amp; Content Creator)</strong> in Charlotte, NC. I'm currently focused on [CraftCMS](https://craftcms.com/), [Laravel](https://laravel.com/), [NextJS](https://nextjs.org/) and my own content creation on YouTube.
 
 <p>
+  <a href="https://ironfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-%23333333.svg?&style=for-the-badge&logo=serverless&logoColor=white" height="25">
+  </a>
   <a href="https://www.twitter.com/im_ironclad">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25">
   </a>
