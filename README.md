@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<img src="https://github.com/im-ironclad/im-ironclad/blob/master/computer-focal.jpg?raw=true" alt="Photograph of computer in front of the Charlotte skyline at night" height="100px" style="height: 100px; width: 100%; object-fit: cover; object-position: 0 25%" />
+<img src="https://github.com/im-ironclad/im-ironclad/blob/master/computer-focal.jpg?raw=true" alt="Photograph of computer in front of the Charlotte skyline at night" height="100px" width="100%" style="height: 100px; width: 100%; object-fit: cover; object-position: 0 25%" />
 
 <!--
 **im-ironclad/im-ironclad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
