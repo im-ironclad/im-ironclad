@@ -1,7 +1,9 @@
 <!-- markdownlint-disable -->
 ### I'm Adam, Ironclad, Wells
 
-I’m a <strong>(Full-stack Creative &amp;&amp; Content Creator)</strong> in Charlotte, NC. I'm currently focused on [CraftCMS](https://craftcms.com/), [Laravel](https://laravel.com/), [NextJS](https://nextjs.org/) and my own content creation on YouTube.
+I’m a <strong>(Creative Developer &amp;&amp; Software Engineer)</strong> in Charlotte, NC.
+<!-- I’m a <strong>(Full-stack Creative &amp;&amp; Content Creator)</strong> in Charlotte, NC.
+I'm currently focused on [CraftCMS](https://craftcms.com/), [Laravel](https://laravel.com/), [NextJS](https://nextjs.org/) and my own content creation on YouTube. -->
 
 <p>
   <a href="https://ironfolio.com">
